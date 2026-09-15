@@ -62,6 +62,7 @@ Useful for formatting, validating, converting, inspecting, and testing structure
 
 ToolsFam developer tools:
 https://www.toolsfam.com/tools
+- [Kastavo Dev Tools](https://kastavo.com/en/categories/development) - Base64, Hash, JWT, Regex, JSON formatter, URL encoder and more
 
 ## PDF tools
 
@@ -78,6 +79,7 @@ Useful for routine document workflows.
 
 ToolsFam PDF tools:
 https://www.toolsfam.com/tools
+- [Kastavo PDF Tools](https://kastavo.com/en/categories/pdf) - Local-first PDF converter, compressor, merger, splitter and more
 
 ## Image tools
 
@@ -96,6 +98,7 @@ Useful for website assets, social images, compression, conversion, and everyday 
 
 ToolsFam image tools:
 https://www.toolsfam.com/tools
+- [Kastavo Image Tools](https://kastavo.com/en/categories/images) - Local-first image converter, compressor, resizer, OCR and more
 
 ## SEO and web tools
 
