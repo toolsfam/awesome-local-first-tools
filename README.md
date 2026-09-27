@@ -93,6 +93,7 @@ Useful for website assets, social images, compression, conversion, and everyday 
 - Image Resizer
 - Background Remover
 - OCR Tool
+- FileOnTap — Free browser-based image and PDF converter; files are processed locally without upload or an account: https://fileontap.com/
 
 ToolsFam image tools:
 https://www.toolsfam.com/tools
